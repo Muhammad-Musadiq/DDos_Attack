@@ -4,6 +4,5 @@ This project was a collaborative effort by:
 Muhammad Hassan and Muhammad Musadiq.
 
 Tech Stack Used:
-
 -> C++
 -> HTML
